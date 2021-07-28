@@ -11,9 +11,10 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+      print("Development")
     }
-
-
 }
 
+func printff(){
+    print("this is development")
+}
